@@ -59,7 +59,7 @@ Because we are looking to promote discussion about an emerging area, we encourag
 ## COMMITTEE CHAIRS
 
 * Haklae Kim, Chungang University
-* Jangwon Kim, Kunsan University
+* Jangwon Gim, Kunsan National University
 * Yuchul Jung, Kumoh National Institute of Technology
 * Dongjun Seo, Kyungbook Univeristy
 * Mingjung Lee, Sejong Cyber University
